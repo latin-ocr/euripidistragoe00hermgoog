@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./euripidistragoe00hermgoog_0425.png"; bbox 0 0 746 1279; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 147 240 686 271">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 147 240 686 271">
+     <span class='ocr_line' id='line_1_1' title="bbox 147 240 686 271; baseline 0.002 -1"><span class='ocrx_word' id='word_1_1' title='bbox 147 240 285 271; x_wconf 70' lang='lat' dir='ltr'>TA‘TOY</span> <span class='ocrx_word' id='word_1_2' title='bbox 299 243 494 271; x_wconf 73' lang='grc' dir='ltr'><strong>ΔΡΑΜΑΤΟΣ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 508 248 686 271; x_wconf 53' lang='lat' dir='ltr'><em>npozsmss</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 233 382 593 578">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 234 382 360 395">
+     <span class='ocr_line' id='line_1_2' title="bbox 234 382 360 395; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 234 382 360 395; x_wconf 51' lang='lat' dir='ltr'><em>IQIPENEIA.</em></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 236 409 344 422">
+     <span class='ocr_line' id='line_1_3' title="bbox 236 409 344 422; baseline 0.009 -1"><span class='ocrx_word' id='word_1_5' title='bbox 236 409 344 422; x_wconf 77' lang='grc' dir='ltr'><em>ΟΡΕΣΤΗΣ.</em></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 237 434 351 448">
+     <span class='ocr_line' id='line_1_4' title="bbox 237 434 351 448; baseline 0.009 -1"><span class='ocrx_word' id='word_1_6' title='bbox 237 434 351 448; x_wconf 73' lang='grc' dir='ltr'><em>ΠΥΛΑΔΗΣ.</em></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 235 460 593 501">
+     <span class='ocr_line' id='line_1_5' title="bbox 238 460 593 474; baseline -0.003 0"><span class='ocrx_word' id='word_1_7' title='bbox 238 460 314 474; x_wconf 75' lang='grc' dir='ltr'><strong><em>ΧΟΡΟΣ</em></strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 324 460 463 474; x_wconf 72' lang='grc' dir='ltr'><em>ΕΛΛΒΝΙΑΩΝ</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 472 460 593 473; x_wconf 76' lang='grc' dir='ltr'><em>ΓῩΝΑΙΚΩΝ.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 235 486 362 501; baseline 0.016 -2"><span class='ocrx_word' id='word_1_10' title='bbox 235 486 362 501; x_wconf 73' lang='grc' dir='ltr'><em>ΒΟῩΚΟΛΟΣ.</em></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 235 512 299 526">
+     <span class='ocr_line' id='line_1_7' title="bbox 235 512 299 526; baseline 0.016 -1"><span class='ocrx_word' id='word_1_11' title='bbox 235 512 299 526; x_wconf 63' lang='lat' dir='ltr'><strong><em>emiz-</em></strong></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 233 538 343 552">
+     <span class='ocr_line' id='line_1_8' title="bbox 233 538 343 552; baseline 0.009 -1"><span class='ocrx_word' id='word_1_12' title='bbox 233 538 343 552; x_wconf 60' lang='lat' dir='ltr'><em>Arrzdoz</em></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_8' title="bbox 234 564 318 578">
+     <span class='ocr_line' id='line_1_9' title="bbox 234 564 318 578; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 234 564 318 578; x_wconf 63' lang='lat' dir='ltr'><em>AOENA.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
